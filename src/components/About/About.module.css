@@ -1,0 +1,96 @@
+.mainContainer{
+    margin-top: 80px;
+    max-height: 600px;
+}
+
+.wrapper{
+    width: 90vw;
+    display: flex;
+    justify-content: space-between;
+}
+.first{
+    display: flex;
+    justify-content: flex-start;
+    align-items: flex-start;
+    flex-direction: column;
+    color: darkblue;
+}
+
+small{
+    margin-left: 5px;
+    font-weight: 900;
+    color: grey;
+
+}
+
+h1{
+    text-align: start;
+    margin: 15px;
+    font-size: xx-large;
+    color:brown;
+}
+h2{
+    text-align: start;
+    margin: 20px;
+    color: grey; 
+}
+
+img{
+    margin: 20px;
+    height: 400px;
+    width: 400px;
+    border-radius: 12px;
+}
+
+p{
+    margin-top: 4rem;
+    text-align: center;
+    font-size: 1rem;
+    color: brown;
+}
+
+.container{
+    margin-top: 60px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    text-align: center;
+    gap: 15px;
+}
+
+.skill{
+    height: auto;
+    width: 250px;
+    align-items: center;
+    text-align: center;
+    border-radius: 12px;
+    box-shadow: rgba(0,0,0,.1) 0px 4px 12 px;
+    background-color: goldenrod;
+    box-shadow: rgb(104, 77, 8) 4px 4px 4px 1px ;
+    transition: all  .2s cubic-bezier(0.075, 0.82, 0.165, 1);
+}
+
+h4{
+    color: white;
+    font-size: 1rem;
+    padding: 8px;
+}
+
+.list{
+    display: flex;
+    justify-content: flex-start;
+    flex-direction: column;
+    align-items: center;
+
+}
+
+.list li{
+    text-align: center;
+    padding: 4px;
+    width: 100%;
+    list-style: none;
+
+}
+li{
+    color: aliceblue;
+}

@@ -1,0 +1,26 @@
+
+
+.form{
+border: 3px solid goldenrod;
+align-items: center;
+border-radius: 20%;
+box-shadow: rgb(104, 77, 8) 4px 4px 4px 1px ;
+margin: 50px;
+background-color: goldenrod;
+padding: 60px;
+min-height: 15rem;
+justify-content: center;
+text-align: center;
+width: fit-content;
+
+}
+
+input{
+    width: 150px;
+    border-radius: 5px;
+    height: 18px;
+}
+
+label{
+    font-weight: bolder;
+}
