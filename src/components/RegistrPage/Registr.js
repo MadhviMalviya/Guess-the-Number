@@ -6,7 +6,7 @@ function Registr() {
   return (
     <div>
      <Nav/>
-    
+    <h1>Welcome to Home Page</h1>
     <form  className={style.form} >
         <label>First Nmame</label> 
         <input type={Text} ></input><br />

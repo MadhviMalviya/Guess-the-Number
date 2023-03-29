@@ -6,6 +6,7 @@ function Login() {
   return (
     <div  >
     <Nav/>
+    <h1>Welcome to Home Page</h1>
       <form  className={style.form} >
         <label>Username</label>
         <input type={Text} ></input><br />

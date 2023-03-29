@@ -8,6 +8,7 @@ function About() {
     return (
         <>
             <Nav />
+            <h1>Welcome to Home Page</h1>
             <div className={style.mainContainer}>
                 <h1>About me</h1>
 
